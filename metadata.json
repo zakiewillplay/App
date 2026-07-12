@@ -1,6 +1,0 @@
-{
-  "name": "Web Monitor",
-  "description": "Monitor webpages in the background and receive instant notifications when updates or changes occur.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
